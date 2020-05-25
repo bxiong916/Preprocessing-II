@@ -52,19 +52,38 @@ nav h1 {
     justify-content: center;
     width: 64%;
     margin-left: 18%;
-    
+    border-bottom-style: dashed;
+    border-color: grey;
+
+}
+
+.map {
+   
+    border-radius: 12px;
+    padding-bottom: 20%;
+    position: relative;
+    bottom: 290px;
+
 }
 
 .img-content-1 {
-    display: flex;
+  display: flex;
     justify-content: flex-end;
-    margin-right: 15%;
+    margin-right: 18%;
+
+    border: 1px solid red;
+
+
 }
 
-.text-content h2 p {
+.text-content-1 {
+  max-width: 30%;
     display: flex;
-    justify-content: flex-start;
+    flex-direction: column;
     border: 1px solid red;
+    margin-left: 18%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
 
 }
 
