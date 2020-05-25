@@ -55,13 +55,34 @@ nav h1 {
     
 }
 
-.text-content-1 {
+.img-content-1 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 15%;
+}
+
+.text-content h2 p {
+    display: flex;
+    justify-content: flex-start;
+    border: 1px solid red;
+
+}
+
+/* .text-content-1 {
     display: flex;
 }
 
 .text-content div {
     margin: 20px;
-}
+} */
 
+
+
+
+
+/* .container-home {
+    width: 600px;
+    margin: 0 auto;
+  } */
   
 
